@@ -4,3 +4,4 @@ Update documentation [eVu7uW] line 9.1
 Update documentation [eVu7uW] line 9.3
 Add test case for W [NB8kLw] line 11.1
 Add feature for X [YQAxqU] line 13.1
+Add test case for W [o1pV0K] line 15.3
